@@ -1,0 +1,25 @@
+Balance: $1884.12
+
+All Purchases Total: $115.88
+
+Food:
+chicken $1.00
+taco $3.35
+
+Food Total: $4.35
+
+Clothes:
+shirt $2.44
+pants $5.66
+
+Clothes Total: $8.10
+
+Entertainment:
+movie $3.44
+
+Entertainment Total: $3.44
+
+Other:
+test123 $99.99
+
+Other Total: $99.99

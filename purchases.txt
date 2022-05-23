@@ -1,0 +1,27 @@
+Balance: $754.06
+
+All Purchases Total: $245.94
+
+Food:
+chicken $3.44
+burger $3.45
+
+Food Total: $6.89
+
+Clothes:
+shirt $13.57
+pants $33.48
+
+Clothes Total: $47.05
+
+Entertainment:
+movie $14.57
+amusement park $76.44
+
+Entertainment Total: $91.01
+
+Other:
+phone bill $33.44
+gas $67.55
+
+Other Total: $100.99
